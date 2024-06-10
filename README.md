@@ -8,4 +8,4 @@ CLONING IT INTOO YOUR MACHINE
 
 Run command to install node modules
 
-npm install
+#npm install
